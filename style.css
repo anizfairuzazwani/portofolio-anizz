@@ -34,7 +34,7 @@ li{
 }
 
 .bg{
-  background-image: url(../Portofolio/img/background.png);
+  background-image: url(img/background.png);
   min-height: 125vh;
   background-repeat: no-repeat;
   background-size: cover;
